@@ -1,0 +1,70 @@
+2018/06/27 01:51:46 [TRACE] Custom path: /home/will/gogs/gogs/custom
+2018/06/27 01:51:46 [TRACE] Log path: /home/will/gogs/gogs/log
+2018/06/27 01:51:46 [TRACE] Build Time: 2018-06-05 12:58:53 UTC
+2018/06/27 01:51:46 [TRACE] Build Git Hash: 91441c3fb29d8ead645d8fffa4658d749d5b3fc3
+2018/06/27 01:51:46 [TRACE] Log Mode: File (Trace)
+2018/06/27 01:51:46 [ INFO] Ziwei He 0.11.53.0603
+[Macaron] 2018-06-27 01:51:50: Started GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:51:50: Completed GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack 401 Unauthorized in 7.63236ms
+[Macaron] 2018-06-27 01:52:10: Started GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:52:10: Completed GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack 401 Unauthorized in 65.240305ms
+[Macaron] 2018-06-27 01:52:13: Started GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:52:13: Completed GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack 401 Unauthorized in 905.246µs
+[Macaron] 2018-06-27 01:52:17: Started GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:52:17: Completed GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack 401 Unauthorized in 56.813964ms
+[Macaron] 2018-06-27 01:52:20: Started GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:52:20: Completed GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack 401 Unauthorized in 2.005403ms
+[Macaron] 2018-06-27 01:52:36: Started GET / for 127.0.0.1
+[Macaron] 2018-06-27 01:52:36: Completed GET / 200 OK in 4.205869ms
+[Macaron] 2018-06-27 01:52:37: Started GET /js/jquery-1.11.3.min.js for 127.0.0.1
+[Macaron] 2018-06-27 01:52:37: Started GET /assets/font-awesome-4.6.3/css/font-awesome.min.css for 127.0.0.1
+[Macaron] [Static] Serving /js/jquery-1.11.3.min.js
+[Macaron] 2018-06-27 01:52:37: Started GET /css/gogs.css?v=eb439184c38f138a5e584e41c22e7ef3 for 127.0.0.1
+[Macaron] 2018-06-27 01:52:37: Started GET /assets/octicons-4.3.0/octicons.min.css for 127.0.0.1
+[Macaron] 2018-06-27 01:52:37: Started GET /css/semantic-2.3.1.min.css for 127.0.0.1
+[Macaron] [Static] Serving /css/gogs.css
+[Macaron] 2018-06-27 01:52:37: Started GET /js/libs/jquery.are-you-sure.js for 127.0.0.1
+[Macaron] [Static] Serving /css/semantic-2.3.1.min.css
+[Macaron] 2018-06-27 01:52:37: Started GET /js/semantic-2.3.1.min.js for 127.0.0.1
+[Macaron] 2018-06-27 01:52:37: Started GET /js/gogs.js?v=eb439184c38f138a5e584e41c22e7ef3 for 127.0.0.1
+[Macaron] 2018-06-27 01:52:37: Started GET /img/favicon.png for 127.0.0.1
+[Macaron] [Static] Serving /img/favicon.png
+[Macaron] [Static] Serving /js/gogs.js
+[Macaron] [Static] Serving /js/semantic-2.3.1.min.js
+[Macaron] [Static] Serving /js/libs/jquery.are-you-sure.js
+[Macaron] [Static] Serving /assets/octicons-4.3.0/octicons.min.css
+[Macaron] [Static] Serving /assets/font-awesome-4.6.3/css/font-awesome.min.css
+[Macaron] 2018-06-27 01:52:37: Completed GET /assets/font-awesome-4.6.3/css/font-awesome.min.css 200 OK in 6.033854ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /assets/octicons-4.3.0/octicons.min.css 200 OK in 5.959064ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /css/gogs.css?v=eb439184c38f138a5e584e41c22e7ef3 200 OK in 6.75382ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /js/libs/jquery.are-you-sure.js 200 OK in 7.030828ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /js/jquery-1.11.3.min.js 200 OK in 7.796915ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /css/semantic-2.3.1.min.css 200 OK in 9.083129ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /js/gogs.js?v=eb439184c38f138a5e584e41c22e7ef3 200 OK in 9.058272ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /img/favicon.png 200 OK in 9.222683ms
+[Macaron] 2018-06-27 01:52:37: Completed GET /js/semantic-2.3.1.min.js 200 OK in 9.518396ms
+[Macaron] 2018-06-27 01:52:37: Started GET /js/libs/emojify-1.1.0.min.js for 127.0.0.1
+[Macaron] [Static] Serving /js/libs/emojify-1.1.0.min.js
+[Macaron] 2018-06-27 01:52:37: Completed GET /js/libs/emojify-1.1.0.min.js 200 OK in 592.519µs
+[Macaron] 2018-06-27 01:52:43: Started GET /js/libs/clipboard-1.5.9.min.js for 127.0.0.1
+[Macaron] [Static] Serving /js/libs/clipboard-1.5.9.min.js
+[Macaron] 2018-06-27 01:52:43: Completed GET /js/libs/clipboard-1.5.9.min.js 200 OK in 5.15742ms
+[Macaron] 2018-06-27 01:52:43: Started GET /assets/octicons-4.3.0/octicons.woff2?ef21c39f0ca9b1b5116e5eb7ac5eabe6 for 127.0.0.1
+[Macaron] [Static] Serving /assets/octicons-4.3.0/octicons.woff2
+[Macaron] 2018-06-27 01:52:43: Completed GET /assets/octicons-4.3.0/octicons.woff2?ef21c39f0ca9b1b5116e5eb7ac5eabe6 200 OK in 5.332651ms
+[Macaron] 2018-06-27 01:52:43: Started GET /css/themes/default/assets/fonts/icons.woff2 for 127.0.0.1
+[Macaron] [Static] Serving /css/themes/default/assets/fonts/icons.woff2
+[Macaron] 2018-06-27 01:52:43: Completed GET /css/themes/default/assets/fonts/icons.woff2 200 OK in 5.708579ms
+[Macaron] 2018-06-27 01:52:46: Started GET /user/login?redirect_to= for 127.0.0.1
+[Macaron] 2018-06-27 01:52:46: Completed GET /user/login?redirect_to= 200 OK in 7.184927ms
+[Macaron] 2018-06-27 01:52:48: Started GET /js/libs/emojify-1.1.0.min.js for 127.0.0.1
+[Macaron] [Static] Serving /js/libs/emojify-1.1.0.min.js
+[Macaron] 2018-06-27 01:52:48: Completed GET /js/libs/emojify-1.1.0.min.js 200 OK in 315.765µs
+[Macaron] 2018-06-27 01:53:05: Started GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:53:05: Completed GET /will/Intelligent_Search.git/info/refs?service=git-receive-pack 200 OK in 37.155935ms
+[Macaron] 2018-06-27 01:53:05: Started POST /will/Intelligent_Search.git/git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:53:05: Completed POST /will/Intelligent_Search.git/git-receive-pack 0  in 35.802463ms
+[Macaron] 2018-06-27 01:53:06: Started POST /will/Intelligent_Search.git/git-receive-pack for 127.0.0.1
+[Macaron] 2018-06-27 01:54:06: Started HEAD /will/Intelligent_Search/tasks/trigger?branch=master&secret=3be08b5467b9b01af992c9f4d513972a&pusher=1 for 127.0.0.1
+[Macaron] 2018-06-27 01:54:06: Completed HEAD /will/Intelligent_Search/tasks/trigger?branch=master&secret=3be08b5467b9b01af992c9f4d513972a&pusher=1 202 Accepted in 1.921204ms
+[Macaron] 2018-06-27 01:54:06: Completed POST /will/Intelligent_Search.git/git-receive-pack 200 OK in 1m0.356534098s
