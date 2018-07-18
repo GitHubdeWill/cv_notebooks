@@ -78,3 +78,44 @@
 [Macaron] 2018-06-27 08:08:25: Started HEAD /will/Intelligent_Search/tasks/trigger?branch=master&secret=3be08b5467b9b01af992c9f4d513972a&pusher=1 for 127.0.0.1
 [Macaron] 2018-06-27 08:08:25: Completed HEAD /will/Intelligent_Search/tasks/trigger?branch=master&secret=3be08b5467b9b01af992c9f4d513972a&pusher=1 202 Accepted in 1.044414ms
 [Macaron] 2018-06-27 08:08:25: Completed POST /will/Intelligent_Search.git/git-receive-pack 200 OK in 4m10.262794904s
+[Macaron] 2018-06-27 12:33:58: Started GET / for 127.0.0.1
+[Macaron] 2018-06-27 12:33:58: Completed GET / 200 OK in 1.958938ms
+[Macaron] 2018-06-27 12:33:58: Started GET /assets/font-awesome-4.6.3/css/font-awesome.min.css for 127.0.0.1
+[Macaron] 2018-06-27 12:33:58: Started GET /css/gogs.css?v=eb439184c38f138a5e584e41c22e7ef3 for 127.0.0.1
+[Macaron] 2018-06-27 12:33:58: Started GET /css/semantic-2.3.1.min.css for 127.0.0.1
+[Macaron] [Static] Serving /assets/font-awesome-4.6.3/css/font-awesome.min.css
+[Macaron] 2018-06-27 12:33:58: Started GET /js/gogs.js?v=eb439184c38f138a5e584e41c22e7ef3 for 127.0.0.1
+[Macaron] 2018-06-27 12:33:58: Started GET /js/jquery-1.11.3.min.js for 127.0.0.1
+[Macaron] [Static] Serving /css/semantic-2.3.1.min.css
+[Macaron] 2018-06-27 12:33:58: Started GET /img/favicon.png for 127.0.0.1
+[Macaron] [Static] Serving /css/gogs.css
+[Macaron] [Static] Serving /js/gogs.js
+[Macaron] 2018-06-27 12:33:58: Started GET /js/semantic-2.3.1.min.js for 127.0.0.1
+[Macaron] 2018-06-27 12:33:58: Started GET /assets/octicons-4.3.0/octicons.min.css for 127.0.0.1
+[Macaron] [Static] Serving /js/semantic-2.3.1.min.js
+[Macaron] [Static] Serving /assets/octicons-4.3.0/octicons.min.css
+[Macaron] [Static] Serving /js/jquery-1.11.3.min.js
+[Macaron] 2018-06-27 12:33:58: Started GET /js/libs/jquery.are-you-sure.js for 127.0.0.1
+[Macaron] [Static] Serving /js/libs/jquery.are-you-sure.js
+[Macaron] [Static] Serving /img/favicon.png
+[Macaron] 2018-06-27 12:33:58: Completed GET /assets/font-awesome-4.6.3/css/font-awesome.min.css 200 OK in 5.488321ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /assets/octicons-4.3.0/octicons.min.css 200 OK in 5.509901ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /js/libs/jquery.are-you-sure.js 200 OK in 6.105593ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /css/gogs.css?v=eb439184c38f138a5e584e41c22e7ef3 200 OK in 6.585702ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /js/jquery-1.11.3.min.js 200 OK in 7.097826ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /js/semantic-2.3.1.min.js 200 OK in 8.791029ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /css/semantic-2.3.1.min.css 200 OK in 9.164151ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /img/favicon.png 200 OK in 9.15939ms
+[Macaron] 2018-06-27 12:33:58: Completed GET /js/gogs.js?v=eb439184c38f138a5e584e41c22e7ef3 200 OK in 9.317536ms
+[Macaron] 2018-06-27 12:33:58: Started GET /js/libs/emojify-1.1.0.min.js for 127.0.0.1
+[Macaron] [Static] Serving /js/libs/emojify-1.1.0.min.js
+[Macaron] 2018-06-27 12:33:58: Completed GET /js/libs/emojify-1.1.0.min.js 200 OK in 403.91µs
+[Macaron] 2018-06-27 12:33:58: Started GET /js/libs/clipboard-1.5.9.min.js for 127.0.0.1
+[Macaron] [Static] Serving /js/libs/clipboard-1.5.9.min.js
+[Macaron] 2018-06-27 12:33:58: Completed GET /js/libs/clipboard-1.5.9.min.js 200 OK in 5.078249ms
+[Macaron] 2018-06-27 12:34:01: Started GET /assets/octicons-4.3.0/octicons.woff2?ef21c39f0ca9b1b5116e5eb7ac5eabe6 for 127.0.0.1
+[Macaron] [Static] Serving /assets/octicons-4.3.0/octicons.woff2
+[Macaron] 2018-06-27 12:34:01: Started GET /css/themes/default/assets/fonts/icons.woff2 for 127.0.0.1
+[Macaron] 2018-06-27 12:34:01: Completed GET /assets/octicons-4.3.0/octicons.woff2?ef21c39f0ca9b1b5116e5eb7ac5eabe6 200 OK in 5.716093ms
+[Macaron] [Static] Serving /css/themes/default/assets/fonts/icons.woff2
+[Macaron] 2018-06-27 12:34:01: Completed GET /css/themes/default/assets/fonts/icons.woff2 200 OK in 2.65856ms
